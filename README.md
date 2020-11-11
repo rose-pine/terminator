@@ -8,7 +8,7 @@ All natural pine, faux fur and a bit of soho vibes for the classy minimalist.
 
 ### Instructions
 
-Put `config` into `.config/terminator/config`. You may have to create the folder `.config/terminator`.
+Put `config` into `.config/terminator/config`. You may have to create the folder `.config/terminator/`.
 
 ### Screenshots
 

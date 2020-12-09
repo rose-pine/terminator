@@ -17,3 +17,7 @@ Put `config` into `.config/terminator/config`. You may have to create the folder
 Fetch featured below is [NerdFetch](https://github.com/thatonecalculator/nerdfetch)
 
 ![Terminator with Rosé Pine](https://i.imgur.com/WqRPEIp.png)
+
+## Thanks to 
+
+- [ThatOneCalculator](https://github.com/thatonecalculator)

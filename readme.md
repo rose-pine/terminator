@@ -15,7 +15,7 @@
 
 Put `config` into `.config/terminator/config`. You may have to create the folder `.config/terminator/`.
 
-## Screenshots
+## Gallery
 
 Fetch featured below is [NerdFetch](https://github.com/thatonecalculator/nerdfetch)
 

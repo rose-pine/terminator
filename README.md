@@ -13,17 +13,20 @@
 
 ## Usage
 
-Put `config` into `.config/terminator/config`. You may have to create the folder `.config/terminator/`.
+Copy the contents of a theme from `dist/` into `.config/terminator/config`. You may have to create the folder `.config/terminator/`.
 
 ## Gallery
 
 Fetch featured below is [NerdFetch](https://github.com/thatonecalculator/nerdfetch)
 
-![Terminator with Rosé Pine](https://i.imgur.com/WqRPEIp.png)
+<img width="656" height="482" alt="Terminator with Rosé Pine" src="https://github.com/user-attachments/assets/1af72bba-3594-4aa9-8e83-06bffa3e7ab7" />
+<img width="656" height="482" alt="Terminator with Rosé Pine Moon" src="https://github.com/user-attachments/assets/8ec5ca2f-550e-420b-b525-f70576c37ab5" />
+<img width="656" height="482" alt="Terminator with Rosé Pine Dawn" src="https://github.com/user-attachments/assets/64ef093a-313e-4b37-b5de-284690fe593f" />
 
 ## Thanks to 
 
 - [ThatOneCalculator](https://github.com/thatonecalculator)
+- [fvrests](https://github.com/fvrests)
 
 <!-- BLOOM_BUILD_START -->
 This theme was built using [bloom](https://github.com/rose-pine/rose-pine-bloom):

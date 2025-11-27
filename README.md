@@ -24,3 +24,11 @@ Fetch featured below is [NerdFetch](https://github.com/thatonecalculator/nerdfet
 ## Thanks to 
 
 - [ThatOneCalculator](https://github.com/thatonecalculator)
+
+<!-- BLOOM_BUILD_START -->
+This theme was built using [bloom](https://github.com/rose-pine/rose-pine-bloom):
+
+```sh
+bloom build <template>
+```
+<!-- BLOOM_BUILD_END -->

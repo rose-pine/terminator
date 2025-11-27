@@ -1,0 +1,23 @@
+[global_config]
+  title_transmit_fg_color = "$text"
+  title_transmit_bg_color = "$overlay"
+  title_inactive_fg_color = "$text"
+  title_inactive_bg_color = "$muted"
+
+[profiles]
+  [[default]]
+    palette = "$overlay:$love:$pine:$gold:$foam:$iris:$rose:$text:$muted:$love:$pine:$gold:$foam:$iris:$rose:$text"
+    foreground_color = "$text"
+    background_color = "$base"
+    cursor_color = "$text"
+
+[layouts]
+  [[default]]
+    [[[child1]]]
+      type = Terminal
+      parent = window0
+      profile = default
+    [[[window0]]]
+      type = Window
+      parent = ""
+[plugins]
